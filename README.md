@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dadarider
-- 👀 I’m interested in MAO
-- 🌱 I’m currently learning JAVA
+- 
+- 🌱 I’m currently learning JAVA spring-boot React.ts Angular  and Python-Odoo
 - 💞️ I’m looking to collaborate on serious projects
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
